@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Lucid Star</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus, dolor et consequat aliquam, augue massa sollicitudin odio, finibus placerat tellus quam in nulla. Vivamus tincidunt pharetra nisi id semper. Pellentesque justo lorem, fermentum nec consequat sit amet, auctor finibus erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ex justo, congue eget dictum sodales, dapibus imperdiet lorem. Duis id sem purus. Donec sit amet mauris dignissim, congue tellus ut, facilisis mi. Sed id nunc at neque dignissim hendrerit eu quis diam. Mauris ut metus id enim interdum porttitor vitae ut mauris. Praesent mollis felis eu dui molestie fringilla. Sed hendrerit dictum molestie. Donec nec erat magna. Suspendisse est dolor, congue nec finibus a, cursus sit amet sem. Phasellus blandit ex pharetra, congue libero egestas, bibendum lectus. Nunc ut lorem nec eros fermentum blandit.
+        \n\nNulla neque sem, ullamcorper vel enim elementum, vehicula auctor elit. Phasellus ut dui pharetra, venenatis lacus et, interdum leo. Donec ullamcorper massa ex, at consequat diam tempor a. Nulla dapibus ut velit ac accumsan. Aenean suscipit leo justo, id dignissim ante imperdiet id. Vestibulum semper sapien non tempor efficitur. Phasellus vulputate nulla eu tortor fermentum, eget vulputate sapien gravida. Ut placerat massa eget justo ultricies laoreet id ornare odio. Cras mattis orci tincidunt tempor efficitur. Sed id dolor lobortis enim tristique porttitor. Quisque felis nibh, congue vestibulum metus et, aliquet luctus magna. In venenatis aliquam odio tincidunt.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
